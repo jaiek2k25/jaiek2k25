@@ -1,28 +1,25 @@
-<!-- ==================== HEADER: INSANE TYPING EFFECT ==================== -->
+<!-- ==================== HEADER: TYPING EFFECT ==================== -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&random=false&width=600&lines=🔐+JAIEK+2K25;Cybersecurity+Aspirant;CTF+Player;Future+B.Cyber+%40+IIT" alt="Typing SVG" />
 </p>
 
-<!-- ==================== BADGES: SOCIAL + SKILLS ==================== -->
+<!-- ==================== SOCIAL BADGES ==================== -->
 <p align="center">
   <a href="https://github.com/jaiek2k25">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:cyberjai2k25@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/YOUR_LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/YOUR_INSTA">
+  <a href="https://instagram.com/love_me_for_my_wits">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://t.me/YOUR_TELEGRAM">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
 
-<!-- ==================== LOCATION & TAGLINE (Nastybox Style) ==================== -->
+<!-- ==================== LOCATION & TAGLINE ==================== -->
 <p align="center">
   <b>📍 India</b> &nbsp;|&nbsp; <b>🎯 B.Cyber @ IIT Madras/Kanpur 2027</b>
 </p>
@@ -31,7 +28,7 @@
   <i>"The quieter you become, the more you are able to hear."</i> — Kali Linux
 </p>
 
-<!-- ==================== DYNAMIC STATS (Insane Style) ==================== -->
+<!-- ==================== STATS CARDS ==================== -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jaiek2k25&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&ring_color=00ff00" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaiek2k25&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff00" width="48%" />
@@ -50,16 +47,16 @@
 
 ---
 
-<!-- ==================== ABOUT / MISSION ==================== -->
+<!-- ==================== MISSION ==================== -->
 ## 🔥 The Mission
 
 > *"Hack the planet, but legally."* 🌍
 
-I'm a cybersecurity enthusiast building practical skills for the **B.Cyber program at IIT Madras/Kanpur**. This portfolio is my proof of work.
+I'm JAI a cybersecurity enthusiast who is currently pursuing grade 12 and also building practical skills for the **B.Cyber program at IIT Madras/Kanpur**. This portfolio is my proof of work.
 
 ---
 
-<!-- ==================== DASHBOARD: PROGRESS (Table) ==================== -->
+<!-- ==================== PROGRESS DASHBOARD ==================== -->
 ## 📊 Progress Dashboard
 
 | Category | Status | Proof |
@@ -71,7 +68,7 @@ I'm a cybersecurity enthusiast building practical skills for the **B.Cyber progr
 
 ---
 
-<!-- ==================== PINNED REPOSITORIES (Nastybox Style with Counters) ==================== -->
+<!-- ==================== PINNED REPOSITORIES ==================== -->
 ## 🔒 Pinned Repositories
 
 <table>
@@ -114,7 +111,7 @@ I'm a cybersecurity enthusiast building practical skills for the **B.Cyber progr
 
 ---
 
-<!-- ==================== PROJECTS SECTION (Nastybox Style) ==================== -->
+<!-- ==================== PROJECTS SECTION ==================== -->
 ## 🚀 Projects
 
 <table>
@@ -152,7 +149,7 @@ I'm a cybersecurity enthusiast building practical skills for the **B.Cyber progr
 
 ---
 
-<!-- ==================== FEATURED WRITE-UP: BANDIT 13 ==================== -->
+<!-- ==================== FEATURED WRITE-UP ==================== -->
 ## 🏆 Featured Write-Up: Bandit Level 13
 
 ### 🎯 Objective
@@ -179,7 +176,7 @@ ssh -i sshkey.private bandit14@localhost
    ```
 
 ### 📸 Screenshot
-*(Take a screenshot of your terminal and upload it here)*
+*(Take a screenshot and upload it to this repo)*
 
 ### 💡 Lessons Learned
 - SSH keys are more secure than traditional passwords
@@ -188,7 +185,7 @@ ssh -i sshkey.private bandit14@localhost
 
 ---
 
-<!-- ==================== SKILLS: TOOLBOX (Badges) ==================== -->
+<!-- ==================== TOOLBOX ==================== -->
 ## 🛠️ Toolbox
 
 <p align="center">
@@ -214,7 +211,7 @@ ssh -i sshkey.private bandit14@localhost
 
 ---
 
-<!-- ==================== ACHIEVEMENTS (Nastybox Style) ==================== -->
+<!-- ==================== ACHIEVEMENTS ==================== -->
 ## 🏆 Achievements
 
 <p align="center">
@@ -227,14 +224,13 @@ ssh -i sshkey.private bandit14@localhost
 
 ---
 
-<!-- ==================== CONTACTS (Nastybox Style) ==================== -->
+<!-- ==================== CONTACTS ==================== -->
 ## 📱 Contacts
 
 - **GitHub**: [github.com/jaiek2k25](https://github.com/jaiek2k25)
-- **Telegram**: [t.me/YOUR_TELEGRAM](https://t.me/YOUR_TELEGRAM)
-- **Instagram**: [@YOUR_INSTA](https://instagram.com/YOUR_INSTA)
+- **Instagram**: [@YOUR_INSTA](https://instagram.com/love_me_for_my_wits)
 - **LinkedIn**: [linkedin.com/in/YOUR_LINKEDIN](https://linkedin.com/in/YOUR_LINKEDIN)
-- **Email**: YOUR_EMAIL
+- **Email**: cyberjai2k25@gmail.com
 
 ---
 
@@ -251,8 +247,4 @@ ssh -i sshkey.private bandit14@localhost
 <!-- ==================== FOOTER ==================== -->
 <p align="center">
   <i>"The quieter you become, the more you are able to hear."</i> — Kali Linux
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jaiek2k25/jaiek2k25/main/assets/footer.gif" width="100%" />
 </p>
