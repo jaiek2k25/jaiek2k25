@@ -118,7 +118,7 @@ bandit14@bandit:~$ cat /etc/bandit_pass/bandit14
 
 - 🎯 **Objective**: Retrieved the password for bandit14 using SSH key authentication.  
 - 🔑 **Key Takeaway**: SSH keys provide stronger security than passwords (asymmetric cryptography).  
-- 📸 **Full Screenshot & Write‑up**: [Check it here]([https://github.com/jaiek2k25/overthewire-writeups/blob/main/bandit-level-13.md])
+- 📸 **Full Screenshot & Write‑up**: [Check it here](https://github.com/jaiek2k25/overthewire-writeups/blob/main/bandit-level-13.md)
 
 ---
 
