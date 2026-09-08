@@ -83,27 +83,33 @@
 │                           PINNED REPOSITORIES                               │
 ├──────────────────────────────────────────────────────────────────────────────┤
 │                                                                              │
-│   📝 overthewire-writeups                                                    │
-│   Bandit level walkthroughs with commands and screenshots                   │
-│   🔗 [View Repository](https://github.com/jaiek2k25/overthewire-writeups)  │
-│   ⭐ 0  |  🍴 0                                                            │
-│                                                                              │
-│   🛠️ python-cyber-tools                                                     │
-│   Security scripts: port scanner, subdomain finder, log analyzer            │
-│   🔗 [View Repository](https://github.com/jaiek2k25/python-cyber-tools)    │
-│   ⭐ 0  |  🍴 0                                                            │
-│                                                                              │
-│   💀 htb-writeups                                                           │
-│   Hack The Box machine walkthroughs                                        │
-│   🔗 [View Repository](https://github.com/jaiek2k25/htb-writeups)          │
-│   ⭐ 0  |  🍴 0                                                            │
-│                                                                              │
-│   📖 learning-journal                                                       │
-│   Daily cybersecurity learning log                                         │
-│   🔗 [View Repository](https://github.com/jaiek2k25/learning-journal)      │
-│   ⭐ 0  |  🍴 0                                                            │
-│                                                                              │
 └──────────────────────────────────────────────────────────────────────────────┘
+
+📝 **overthewire-writeups**
+Bandit level walkthroughs with commands and screenshots  
+🔗 [View Repository](https://github.com/jaiek2k25/overthewire-writeups)  
+⭐ 0 | 🍴 0
+
+---
+
+🛠️ **python-cyber-tools**
+Security scripts: port scanner, subdomain finder, log analyzer  
+🔗 [View Repository](https://github.com/jaiek2k25/python-cyber-tools)  
+⭐ 0 | 🍴 0
+
+---
+
+💀 **htb-writeups**
+Hack The Box machine walkthroughs  
+🔗 [View Repository](https://github.com/jaiek2k25/htb-writeups)  
+⭐ 0 | 🍴 0
+
+---
+
+📖 **learning-journal**
+Daily cybersecurity learning log  
+🔗 [View Repository](https://github.com/jaiek2k25/learning-journal)  
+⭐ 0 | 🍴 0
 
 ┌──────────────────────────────────────────────────────────────────────────────┐
 │                              PROJECTS                                       │
