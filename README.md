@@ -85,22 +85,22 @@
 │                                                                              │
 │   📝 overthewire-writeups                                                    │
 │   Bandit level walkthroughs with commands and screenshots                   │
-│   🔗 https://github.com/jaiek2k25/overthewire-writeups                     │
+│   🔗 [View Repository](https://github.com/jaiek2k25/overthewire-writeups)  │
 │   ⭐ 0  |  🍴 0                                                            │
 │                                                                              │
 │   🛠️ python-cyber-tools                                                     │
 │   Security scripts: port scanner, subdomain finder, log analyzer            │
-│   🔗 https://github.com/jaiek2k25/python-cyber-tools                       │
+│   🔗 [View Repository](https://github.com/jaiek2k25/python-cyber-tools)    │
 │   ⭐ 0  |  🍴 0                                                            │
 │                                                                              │
 │   💀 htb-writeups                                                           │
 │   Hack The Box machine walkthroughs                                        │
-│   🔗 https://github.com/jaiek2k25/htb-writeups                             │
+│   🔗 [View Repository](https://github.com/jaiek2k25/htb-writeups)          │
 │   ⭐ 0  |  🍴 0                                                            │
 │                                                                              │
 │   📖 learning-journal                                                       │
 │   Daily cybersecurity learning log                                         │
-│   🔗 https://github.com/jaiek2k25/learning-journal                         │
+│   🔗 [View Repository](https://github.com/jaiek2k25/learning-journal)      │
 │   ⭐ 0  |  🍴 0                                                            │
 │                                                                              │
 └──────────────────────────────────────────────────────────────────────────────┘
